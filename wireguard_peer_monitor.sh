@@ -11,7 +11,7 @@ peer_was_active=false
 inactive_timer=0
 
 # Time (in seconds) to consider the peer as inactive before sending an event
-inactive_threshold=70  # example: 5 minutes
+inactive_threshold=70  # example: 1 minute 10 seconds
 # Interval (in seconds) to check the peer status
 check_interval=10  # example: 10 seconds
 
